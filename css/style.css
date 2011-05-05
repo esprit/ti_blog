@@ -1,5 +1,11 @@
 .rounded_15 {
-	border: 1px solid black;
+	border: 1px solid #384146;
     -moz-border-radius: 15px;
 	border-radius: 15px;
-}
+	margin: 0px auto;
+	
+.d_tlo         {
+		width: 100%;
+		padding-top:0px;
+		margin: 0px auto;
+		}

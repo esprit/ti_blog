@@ -38,11 +38,13 @@
 }
 
 html {
-  /* http://www.hicksdesign.co.uk/journal/forcing-scrollbars-now-even-better */
   height: 100%; 
-  margin-bottom: 1px;
-  background-color: #C5CBC7; 
-  margin: 0 auto 0 44px; 
+   background: url('../images/bg.gif') repeat scroll 0 0;
+}
+body {
+  margin: 0 auto;
+  width: 940px;
+  background-color: transparent;
 }
 
 .site {
