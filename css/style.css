@@ -9,3 +9,8 @@
 		padding-top:0px;
 		margin: 0px auto;
 		}
+#l_image {
+	  box-shadow: 30px -20px 20px #999;
+  -webkit-box-shadow: 30px -20px 20px #999;
+  -moz-box-shadow: 30px -20px 20px #999;
+}
