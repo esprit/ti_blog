@@ -1,16 +1,43 @@
+/*shadow*/
+.logotyp
+	{
+		margin-top:10px;
+		margin-left:10px;
+	width:503 px;
+	height:246 px;
+	box-shadow: 30px -20px 20px #999;
+	-webkit-box-shadow: 30px 20px 20px #999;
+	-moz-box-shadow: 30px 20px 20px #999;
+  }
+  A.toplink
+  {
+	font-family: Arial;
+	text-decoration: none;
+	 color: #330000; 
+	}
+   A.toplink:hover
+  {
+	font-family: Arial;
+	text-decoration: none;
+	 color: #663300; 
+	} 
+  
+  
+/*zaokr¹glone naro¿niki*/
 .rounded_15 {
-	border: 1px solid #384146;
-    -moz-border-radius: 15px;
+	-moz-border-radius: 15px;
 	border-radius: 15px;
-	margin: 0px auto;
-	
-.d_tlo         {
-		width: 100%;
-		padding-top:0px;
-		margin: 0px auto;
-		}
-#l_image {
-	  box-shadow: 30px -20px 20px #999;
-  -webkit-box-shadow: 30px -20px 20px #999;
-  -moz-box-shadow: 30px -20px 20px #999;
+}
+.d_border 
+{
+	border: 1px solid #384146;
+ }
+ 
+ .width600
+ {
+width: 600px;
+}
+.width340
+{
+width: 300px;
 }
