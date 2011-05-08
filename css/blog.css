@@ -88,7 +88,7 @@ body {
 }
 
 #post h2, #post h3, #home h1 {
-  color: #489690;
+  color: #610B0B;
 }
 
 #home ul li {
@@ -107,10 +107,10 @@ blockquote {
   font-style: normal;
   width: 253px;
   margin-top: 6px;
-  margin-left: 572px;
+  margin-left: 552px;
   padding: 18px 22px 0 22px;
   position: absolute;
-  background: #F2F1D6;
+  background: #FFFFFF;
   -moz-border-radius: 4px;  
   color: #800;
 }
